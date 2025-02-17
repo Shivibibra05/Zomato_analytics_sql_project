@@ -9,9 +9,9 @@ This project analyzes customer transactions on Zomato, focusing on spending patt
 
 •	SQL: Data extraction, transformation, and analysis.
 
-•	PostgreSQL / MySQL: Database management and query execution.
+•	PostgreSQL: Database management and query execution.
 
-•	Excel / Google Sheets: Data validation and report structuring.
+•	Excel: Data validation and report structuring.
 
 
 📊 Key Insights

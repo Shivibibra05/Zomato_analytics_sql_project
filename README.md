@@ -1,12 +1,12 @@
 # Zomato_analytics_sql_project
 
-🍽️ Zomato Data Analysis
 
 📌 Overview
 
 This project analyzes customer transactions on Zomato, focusing on spending patterns, product popularity, and membership impact. Using SQL queries, we derive insights into customer behavior, most purchased items, and rewards earned through the Zomato Gold program.
 
 🛠️ Tools Used
+
 •	SQL: Data extraction, transformation, and analysis.
 
 •	PostgreSQL / MySQL: Database management and query execution.
@@ -15,6 +15,7 @@ This project analyzes customer transactions on Zomato, focusing on spending patt
 
 
 📊 Key Insights
+
 •	💰 Total Spending: Calculates the total amount spent by each user.
 
 •	📅 Visit Frequency: Counts how often each user visited Zomato.

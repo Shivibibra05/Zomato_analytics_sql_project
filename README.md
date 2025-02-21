@@ -16,22 +16,22 @@ This project analyzes customer transactions on Zomato, focusing on spending patt
 
 📊 Key Insights
 
-•	💰 Total Spending: Calculates the total amount spent by each user.
+•	 Total Spending: Calculates the total amount spent by each user.
 
-•	📅 Visit Frequency: Counts how often each user visited Zomato.
+•	 Visit Frequency: Counts how often each user visited Zomato.
 
-•	🛒 First Purchase: Identifies the first item each customer bought.
+•	 First Purchase: Identifies the first item each customer bought.
 
-•	🔥 Most Popular Items: Determines top-purchased products overall and per customer.
+•	 Most Popular Items: Determines top-purchased products overall and per customer.
 
-•	🏅 Gold Membership Impact: Analyzes purchases before and after joining the program.
+•	 Gold Membership Impact: Analyzes purchases before and after joining the program.
 
-•	🎁 Reward Points Calculation: Evaluates points earned based on spending and membership perks.
+•	 Reward Points Calculation: Evaluates points earned based on spending and membership perks.
 
-•	🏆 Transaction Ranking: Ranks transactions, distinguishing between Gold and non-Gold members.
+•	 Transaction Ranking: Ranks transactions, distinguishing between Gold and non-Gold members.
 
 
 📝 Summary
 
-This project showcases data-driven insights into customer behavior, product trends, and membership benefits on Zomato. Using SQL, we uncover patterns that help optimize user engagement and business decisions.
+This project showcases data-driven insights into customer behavior, product trends, and membership benefits on Zomato. Using SQL, I uncovered patterns that help optimize user engagement and business decisions.
 
